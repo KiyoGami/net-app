@@ -1,0 +1,45 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	position: relative;
+}
+
+.divider{
+    position: relative;
+    height: 20px;
+}
+
+.title{
+    position: relative;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.title h1{
+    height: 100%;
+    position: relative;
+    align-self: center;
+}
+
+.content{
+    height: 400px;
+    background-color: antiquewhite;
+    align-items: center;
+    align-self: center;
+}
+
+.d-non{
+    display: none;
+}
+
+.row{
+    margin-bottom: 10px;
+}
+
+.x-input{
+    width: 40px;
+}
